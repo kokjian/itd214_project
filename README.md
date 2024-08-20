@@ -2,7 +2,7 @@
 
 This project is done for Nanyang Polytechnic - Specialist Diploma in Business & Big Data Analytics, ITD214 Applied Data Science Project module.
 
-The code train a text classification model to predict the sentiment of a movie review, to automate the labelling of the sentiment for new movie reviews on IMDb.
+The code trains a text classification model to predict the sentiment of a movie review, to automate the labelling of the sentiment for new movie reviews on IMDb.
 
 The code is written and executed in Jupyter Notebook.
 
